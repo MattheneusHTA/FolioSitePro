@@ -1,9 +1,7 @@
 {
-  "version": 2,
-  "builds": [
-    {
-      "src": "**",
-      "use": "@vercel/static"
+  "functions": {
+    "api/contact.ts": {
+      "maxDuration": 10
     }
-  ]
+  }
 }
