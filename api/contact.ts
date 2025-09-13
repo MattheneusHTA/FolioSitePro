@@ -1,5 +1,5 @@
 // Use Node.js runtime for SendGrid compatibility
-import sgMail from '@sendgrid/mail';
+import { Resend } from 'resend';
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 
 // Interface for contact form data
@@ -91,21 +91,21 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       });
     }
 
-    // Initialize SendGrid (production-ready)
-    const apiKey = process.env.SENDGRID_API_KEY;
+    // Initialize Resend (production-ready)
+    const apiKey = process.env.RESEND_API_KEY;
     const toEmail = process.env.TO_EMAIL || 'paul@mattheneus.com';
     
     if (!apiKey) {
-      console.error('SendGrid API key not configured');
+      console.error('Resend API key not configured');
       return res.status(500).json({ 
         error: 'Email service not configured' 
       });
     }
 
-    sgMail.setApiKey(apiKey);
+    const resend = new Resend(apiKey);
 
-    // Send email using SendGrid
-    await sgMail.send({
+    // Send email using Resend
+    await resend.emails.send({
       to: toEmail,
       from: process.env.FROM_EMAIL || toEmail, // Must be verified sender
       replyTo: email, // User's email for easy reply
@@ -154,7 +154,7 @@ Reply directly to this email to respond to ${name}
     // Return success response
     return res.status(200).json({ 
       success: true, 
-      message: 'Email sent successfully via SendGrid',
+      message: 'Email sent successfully via Resend',
       timestamp: new Date().toISOString()
     });
 

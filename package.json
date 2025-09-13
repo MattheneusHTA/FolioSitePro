@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "@sendgrid/mail": "^8.1.5",
+    "resend": "^4.0.1",
     "@vercel/node": "^5.3.22"
   }
 }
