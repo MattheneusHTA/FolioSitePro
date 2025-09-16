@@ -1,0 +1,12 @@
+{
+  "name": "paul-mattheneus-portfolio",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "echo \"No build step - static site\""
+  },
+  "dependencies": {
+    "resend": "^6.0.3",
+    "@vercel/node": "^5.3.22"
+  }
+}
