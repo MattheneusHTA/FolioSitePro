@@ -26,6 +26,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     <meta property="og:image:height" content="627" />
     <meta property="og:image:alt" content="MAIC Analysis Ecosystem - AI-Enhanced Clinical Research Workflow featuring CLARA System by Paul Mattheneus" />
     <meta property="og:site_name" content="Paul Mattheneus" />
+    <meta property="article:author" content="Paul Mattheneus" />
     <meta name="description" content="AI-Enhanced Matching-Adjusted Indirect Comparison Platform featuring the CLARA System: Clinical AI Reliability Assessment System" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="MAIC AI Analysis Ecosystem - Workflow & Reliability Architecture" />
