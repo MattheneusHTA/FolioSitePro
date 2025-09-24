@@ -4,6 +4,9 @@
   "functions": {
     "api/contact.ts": {
       "maxDuration": 10
+    },
+    "api/share-maic-workflow.ts": {
+      "maxDuration": 10
     }
   }
 }
