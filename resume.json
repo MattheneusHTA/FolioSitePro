@@ -1,0 +1,391 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "meta": {
+    "canonical": "https://mattheneus.com/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2025-01-17T00:00:00.000Z",
+    "theme": "professional"
+  },
+  "basics": {
+    "name": "Paul Mattheneus",
+    "label": "Health Economist & Generative AI Software Engineer",
+    "image": "https://mattheneus.com/assets/professional-headshot.jpeg",
+    "email": "mattheneus@gmail.com",
+    "phone": "",
+    "url": "https://mattheneus.com",
+    "summary": "Health Economist & Generative AI Software Engineer specializing in pharmaceutical operations with MSc in Pharmaceutical Biosciences and Health Economics. Delivered $1M+ annual savings through automated technical report generation and enterprise AI solutions at Bristol Myers Squibb. Proven track record of transforming complex pharmaceutical challenges into competitive advantages through cutting-edge AI implementations.",
+    "location": {
+      "countryCode": "CH",
+      "address": "Neuchatel, Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "paulmattheneus",
+        "url": "https://linkedin.com/in/paulmattheneus"
+      },
+      {
+        "network": "GitHub",
+        "username": "paulmattheneus",
+        "url": "https://github.com/paulmattheneus"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "paulmattheneus",
+        "url": "https://scholar.google.com/citations?user=paulmattheneus"
+      },
+      {
+        "network": "ORCID",
+        "username": "0000-0000-0000-0000",
+        "url": "https://orcid.org/0000-0000-0000-0000"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Bristol Myers Squibb",
+      "position": "Generative AI Software Engineer & Biostatistics Expert",
+      "location": "Boudry, Switzerland",
+      "description": "Leading pharmaceutical company focused on discovering, developing and delivering innovative medicines for patients with serious diseases.",
+      "url": "https://www.bms.com",
+      "startDate": "2022-01-01",
+      "endDate": "",
+      "summary": "Spearheading enterprise AI transformation initiatives delivering $1M+ annual savings through automated pharmaceutical solutions.",
+      "highlights": [
+        "Developed Adaptive Integrated Codebase AI Agent transforming maintenance from slow, manual process into rapid, prompt-driven workflow with 10x productivity potential",
+        "Built MAIC Generative AI Platform eliminating external consultancy dependencies through automated technical report generation",
+        "Created first-of-its-kind Healthcare AI Evidence Reliability Assessment System quantifying AI-generated healthcare report reliability",
+        "Implemented multi-modal AI engine with Claude Vision API integration and automated evidence synthesis",
+        "Designed hybrid validation system with cross-referencing architecture ensuring 99.9% accuracy for healthcare decision-making",
+        "Established enterprise-ready solutions integrating seamlessly across R and Python applications company-wide"
+      ]
+    },
+    {
+      "name": "Bristol Myers Squibb",
+      "position": "Senior Specialist HTA",
+      "location": "Stockholm, Sweden",
+      "description": "Health Technology Assessment specialist focusing on Nordic market access strategies.",
+      "url": "https://www.bms.com",
+      "startDate": "2020-01-01",
+      "endDate": "2022-08-01",
+      "summary": "Developed expertise in crafting Health Technology Assessment reimbursement dossiers for Nordic markets.",
+      "highlights": [
+        "Key contributor to securing reimbursement for Opdivo as adjuvant therapy for esophageal carcinoma patients",
+        "Shaped new Swedish reimbursement procedures for PDL1-1 inhibitors in the adjuvant setting",
+        "Built and maintained IPD database for BMS Nordics Market Affiliate integrating clinical data and analytics tools",
+        "Developed comprehensive HTA reimbursement dossiers across multiple Nordic healthcare systems"
+      ]
+    },
+    {
+      "name": "Parexel",
+      "position": "Associate Manager, HTA and Cost Effectiveness Modelling",
+      "location": "Stockholm, Sweden",
+      "description": "Global clinical research organization providing comprehensive biopharmaceutical services.",
+      "url": "https://www.parexel.com",
+      "startDate": "2019-01-01",
+      "endDate": "2020-01-01",
+      "summary": "Developed Cost-Effectiveness and Budget-Impact Models for major pharmaceutical companies.",
+      "highlights": [
+        "Developed comprehensive cost-effectiveness and budget-impact models for leading pharmaceutical companies",
+        "Communicated value of new pharmaceutical interventions to enhance market access",
+        "Engaged with stakeholders to facilitate informed decision-making and promote product adoption",
+        "Effectively communicated value of new pharmaceutical interventions to drive market access and stakeholder engagement"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Uppsala University",
+      "url": "https://www.uu.se/en",
+      "area": "Pharmaceutical Biosciences",
+      "studyType": "Master of Science",
+      "startDate": "2016-01-01",
+      "endDate": "2018-12-31",
+      "score": "",
+      "courses": [
+        "Advanced Pharmaceutical Research",
+        "Drug Development and Regulatory Science",
+        "Biostatistics and Clinical Trials",
+        "Pharmacovigilance and Drug Safety"
+      ]
+    },
+    {
+      "institution": "University of Sheffield",
+      "url": "https://www.sheffield.ac.uk",
+      "area": "Health Economics",
+      "studyType": "Master of Science",
+      "startDate": "2014-01-01",
+      "endDate": "2016-12-31",
+      "score": "",
+      "courses": [
+        "Health Technology Assessment",
+        "Economic Evaluation of Healthcare Interventions",
+        "Healthcare Policy and Economics",
+        "Advanced Statistical Methods in Health Economics"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "ÖtillÖ Silver Medal",
+      "date": "2023-01-01",
+      "awarder": "ÖtillÖ World Championship",
+      "summary": "Achievement in one of the world's most challenging swimrun competitions, demonstrating exceptional endurance, strategic planning, and performance under pressure."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Generative AI & Large Language Models",
+      "level": "Expert",
+      "keywords": [
+        "LLMs",
+        "GPT-4",
+        "Claude",
+        "RAG Systems",
+        "Multi-modal AI",
+        "Prompt Engineering",
+        "AI Agent Development"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Expert",
+      "keywords": [
+        "Python",
+        "R",
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "SQL"
+      ]
+    },
+    {
+      "name": "AI/ML Technologies",
+      "level": "Expert",
+      "keywords": [
+        "Natural Language Processing",
+        "Computer Vision",
+        "Machine Learning",
+        "Deep Learning",
+        "AI Validation Systems",
+        "Enterprise AI Architecture"
+      ]
+    },
+    {
+      "name": "Healthcare & Pharmaceutical",
+      "level": "Expert",
+      "keywords": [
+        "Health Technology Assessment",
+        "Biostatistics",
+        "Clinical Trials",
+        "Regulatory Science",
+        "MAIC Analysis",
+        "Health Economics Modeling",
+        "Pharmaceutical Operations"
+      ]
+    },
+    {
+      "name": "Cloud & Enterprise Technologies",
+      "level": "Advanced",
+      "keywords": [
+        "Cloud Architecture",
+        "Enterprise Integration",
+        "Scalable Systems",
+        "API Development",
+        "Database Management",
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Data Science & Analytics",
+      "level": "Expert",
+      "keywords": [
+        "Statistical Modeling",
+        "Data Analysis",
+        "Business Intelligence",
+        "Automated Reporting",
+        "Evidence Synthesis",
+        "Quality Assurance"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Swedish",
+      "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "Danish",
+      "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "Norwegian",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Competitive Swimming and Running",
+      "keywords": [
+        "ÖtillÖ World Championship",
+        "Endurance Sports",
+        "Swimrun",
+        "Performance Optimization"
+      ]
+    },
+    {
+      "name": "AI Research and Innovation",
+      "keywords": [
+        "Emerging AI Technologies",
+        "Healthcare AI Applications",
+        "Enterprise AI Strategy",
+        "AI Ethics and Validation"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Adaptive Integrated Codebase AI Agent",
+      "description": "Transforms codebase maintenance from slow, manual, error-prone process into rapid, reliable, prompt-driven workflow delivering 10x productivity potential.",
+      "highlights": [
+        "Full repository scanning with multi-file context analysis",
+        "Domain-agnostic operation across multiple programming languages",
+        "Idempotent, regression-safe changes with continuous codebase insight",
+        "Enterprise-ready solution integrating seamlessly across R and Python applications"
+      ],
+      "keywords": [
+        "AI Agent Development",
+        "Code Analysis",
+        "Enterprise Integration",
+        "Multi-language Support",
+        "Repository Intelligence"
+      ],
+      "startDate": "2022-01-01",
+      "endDate": "",
+      "url": "",
+      "roles": [
+        "Lead Developer",
+        "AI Architect"
+      ],
+      "entity": "Bristol Myers Squibb",
+      "type": "Enterprise AI Solution"
+    },
+    {
+      "name": "MAIC Gen AI Platform - Automated Technical Report Generation",
+      "description": "Multi-modal AI engine for automated technical report generation eliminating external consultancy dependencies, potentially generating $1M+ annual savings.",
+      "highlights": [
+        "Multi-modal AI engine with Claude Vision API integration",
+        "Systematic, evidence-driven identification of patient baseline characteristics",
+        "Hybrid validation system with cross-referencing architecture ensuring high accuracy",
+        "Three automated pathways: Master Files, Academic Papers, EU JCA compliant reports"
+      ],
+      "keywords": [
+        "Automated Report Generation",
+        "Multi-modal AI",
+        "Healthcare Compliance",
+        "Evidence Synthesis",
+        "Regulatory Excellence"
+      ],
+      "startDate": "2022-01-01",
+      "endDate": "",
+      "url": "",
+      "roles": [
+        "Technical Lead",
+        "AI Platform Architect"
+      ],
+      "entity": "Bristol Myers Squibb",
+      "type": "Healthcare AI Platform"
+    },
+    {
+      "name": "Healthcare AI Evidence Reliability Assessment System",
+      "description": "First-of-its-kind system to quantify reliability and robustness of AI-generated healthcare reports, transforming AI adoption from experimental to mission-critical.",
+      "highlights": [
+        "Multi-metric validation framework with weighted healthcare reliability scoring",
+        "Healthcare-specific quality assurance ensuring regulatory and HTA-level standards",
+        "Enables confident healthcare decision-making through quantified AI report reliability",
+        "Enterprise impact transforming AI adoption in regulated environments"
+      ],
+      "keywords": [
+        "AI Validation",
+        "Healthcare Quality Assurance",
+        "Reliability Assessment",
+        "Regulatory Compliance",
+        "Risk Management"
+      ],
+      "startDate": "2022-01-01",
+      "endDate": "",
+      "url": "",
+      "roles": [
+        "Research Lead",
+        "Validation Framework Designer"
+      ],
+      "entity": "Bristol Myers Squibb",
+      "type": "Healthcare Quality Assurance"
+    },
+    {
+      "name": "Enterprise AI Architecture Leadership",
+      "description": "Leading enterprise AI transformation initiatives with cross-functional impact empowering teams through AI democratization at Bristol Myers Squibb.",
+      "highlights": [
+        "6 years at Bristol Myers Squibb with 10+ years pharmaceutical expertise",
+        "Cross-functional impact empowering PMs, analysts, and domain experts",
+        "Strategic vision transforming single innovations into company-wide competitive advantages",
+        "AI democratization enabling non-technical teams to leverage advanced AI capabilities"
+      ],
+      "keywords": [
+        "Enterprise AI Strategy",
+        "Cross-functional Leadership",
+        "AI Democratization",
+        "Strategic Vision",
+        "Competitive Advantage"
+      ],
+      "startDate": "2020-01-01",
+      "endDate": "",
+      "url": "",
+      "roles": [
+        "AI Strategy Leader",
+        "Cross-functional Coordinator"
+      ],
+      "entity": "Bristol Myers Squibb",
+      "type": "Strategic Leadership Initiative"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Peer-reviewed research on survival analysis methodologies",
+      "publisher": "Top-tier medical journals",
+      "releaseDate": "2021-01-01",
+      "url": "",
+      "summary": "Published research on advanced survival analysis methodologies in pharmaceutical applications."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Advanced Statistical Methods in Clinical Research",
+      "date": "2020-01-01",
+      "issuer": "Professional Development",
+      "url": ""
+    },
+    {
+      "name": "AI/ML in Healthcare Applications",
+      "date": "2022-01-01",
+      "issuer": "Professional Development",
+      "url": ""
+    }
+  ],
+  "volunteer": [],
+  "references": [
+    {
+      "name": "Bill Malcolm",
+      "reference": "Executive Director Global HEOR at Bristol Myers Squibb - Professional reference available upon request."
+    },
+    {
+      "name": "Sven Klijn",
+      "reference": "Director Global HEOR at Bristol Myers Squibb - Professional reference available upon request."
+    }
+  ]
+}

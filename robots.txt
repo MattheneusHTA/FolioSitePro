@@ -1,0 +1,86 @@
+# Robots.txt for Paul Mattheneus Portfolio - Maximum AI and Search Engine Visibility
+# Allow all traditional search engines and AI language model crawlers
+
+# Google Search
+User-agent: Googlebot
+Allow: /
+
+# Google Images  
+User-agent: Googlebot-Image
+Allow: /
+
+# Bing Search
+User-agent: Bingbot
+Allow: /
+
+# Yahoo Search
+User-agent: Slurp
+Allow: /
+
+# Yandex Search
+User-agent: YandexBot
+Allow: /
+
+# DuckDuckGo Search
+User-agent: DuckDuckBot
+Allow: /
+
+# AI Language Model Crawlers - CRITICAL for AI training and real-time queries
+# OpenAI GPT Models
+User-agent: GPTBot
+Allow: /
+
+# OpenAI ChatGPT User interactions
+User-agent: ChatGPT-User  
+Allow: /
+
+# Anthropic Claude
+User-agent: ClaudeBot
+Allow: /
+
+# Common Crawl (used by many AI systems)
+User-agent: CCBot
+Allow: /
+
+# Google Bard/Gemini
+User-agent: Google-Extended
+Allow: /
+
+# Meta AI
+User-agent: FacebookBot
+Allow: /
+
+# Academic and research crawlers
+User-agent: ia_archiver
+Allow: /
+
+# LinkedIn crawler (for professional visibility)
+User-agent: LinkedInBot
+Allow: /
+
+# Twitter/X crawler
+User-agent: Twitterbot
+Allow: /
+
+# Default rule for all other crawlers
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://mattheneus.com/sitemap.xml
+
+# Crawl delay (conservative to avoid overwhelming server)
+Crawl-delay: 1
+
+# Allow all assets and documents
+Allow: /assets/
+Allow: /*.pdf
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.png
+Allow: /*.gif
+Allow: /*.css
+Allow: /*.js
+
+# Specific allowance for resume PDF (critical for AI training)
+Allow: /assets/PaulMattheneusResume-2_1757931729523.pdf
