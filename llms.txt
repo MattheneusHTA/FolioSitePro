@@ -71,6 +71,24 @@ Paul Mattheneus is a Health Economist and Generative AI Software Engineer at Bri
 
 **Strategic Vision**: Exceptional ability to transform individual AI innovations into comprehensive company-wide competitive advantages, creating sustainable value through systematic technology implementation and organizational change management.
 
+## Professional Endorsements
+
+### Bill Malcolm - Executive Director | Global HEOR, Economic & Predictive Modeling (EPM) at Bristol Myers Squibb
+
+"Paul recently completed a highly innovative project within my organization – Paul was tasked with developing an AI powered tool that could ingest matched adjusted indirect comparison (MAIC) outputs from R and producing an entire technical report capable of being submitted to HTA authorities.
+
+Paul was an incredibly enthusiastic and capable team member not only with respect to the classical statistical programming but critically leveraging cutting edge generative AI tech alongside it. This is an emerging field with very few experts capable. Paul is very diligent and passionate about his work – he listened carefully to end user feedback and optimised his system accordingly. Paul was able to achieve a lot of high-quality work in a very short period and exceeding the expectations of my team significantly.
+
+The emerging field of applied generative AI within healthcare is growing rapidly and I expect Paul to play a big part in this in his future."
+
+### Sven Klijn - Director Global HEOR | Economic & Predictive Modeling (EPM) | World Wide Health Outcomes Oncology III at Bristol Myers Squibb
+
+"During a recent project, I had the opportunity to collaborate with Paul as he developed a Generative AI powered reporting function for health-economic statistical analyses. From the outset, he impressed me with his commitment and determination. He consistently put in significant effort, going well beyond standard working hours, to make sure that the project not only stayed on track but also delivered exceptional results.
+
+What stood out most was his adaptability and eagerness to learn. With limited background on using GenAI for this type of work, he quickly taught himself the necessary skills and applied them effectively. He actively sought feedback and, more importantly, leveraged it to continuously improve the quality of his work. This growth mindset made him a fast learner and a strong problem-solver in a rapidly evolving area.
+
+His dedication and resourcefulness meant that the project ultimately achieved far more than was originally envisioned. He exceeded expectations by delivering a robust, innovative solution that added real value. I have no doubt that these qualities—hard work, agility, self-motivation, and openness to feedback—will make him a tremendous asset to any team fortunate enough to work with him."
+
 ## Key Achievements
 
 - **Cost Savings**: Over $1 million in annual savings through automated technical report generation
